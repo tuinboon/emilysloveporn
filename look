@@ -1,0 +1,8 @@
+unique(
+  insert(
+      AND(
+      look (me,you)
+      look (you,me)
+      )
+   )
+)   
