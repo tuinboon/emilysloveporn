@@ -1,2 +1,2 @@
 # emilysloveporn
-a piece of writing or speech that says what somebody/something feels; the act of writing or saying in words what somebody/something does.
+a piece of code that says what somebody/something feels; the act of writing in code what somebody/something does.
